@@ -31,4 +31,4 @@ Learn how Zenify works with this documentation written by the author of Zenify. 
 <h4 align="center">11072</h4>
 <br>
 <h3 align="center">Conditionals</h3>
-<p align="center">IF <condition> THEN <condition> ELIF <condition> THEN <codition>.</p>
+<p align="center">IF《condition》THEN《condition》ELIF《condition》THEN《codition》</p>
