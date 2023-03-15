@@ -6,3 +6,5 @@
 <br>
 <br>
 <h3>Read more to learn how to use Zenify!</h3>
+<br>
+<h1>Documentation</h1>
