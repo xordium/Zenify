@@ -48,3 +48,7 @@ Learn how Zenify works with this documentation written by the author of Zenify. 
 <h4 align="center">Zenify on top</h4>
 <h4 align="center">Zenify on top</h4>
 <h4 align="center">Zenify on top</h4>
+<br>
+<h3 align="center">Clear</h3>
+<p align="center">Simply clears the Zenify Shell.</p>
+<h4 align="center">clear</h4>
