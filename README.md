@@ -52,3 +52,6 @@ Learn how Zenify works with this documentation written by the author of Zenify. 
 <h3 align="center">Clear</h3>
 <p align="center">Simply clears the Zenify Shell.</p>
 <h4 align="center">clear</h4>
+<br>
+<h1 align="center">Shell</h1>
+![zShell](https://user-images.githubusercontent.com/71977559/225449867-c2eddf9a-9976-479c-95bc-44d8607c49c0.png)
