@@ -37,3 +37,14 @@ Learn how Zenify works with this documentation written by the author of Zenify. 
 <h4 align="center">IF example == 32 THEN display("true") ELSE display("false")</h4>
 <h3 align="center">Output:</h3>
 <h4 align="center">true</h4>
+<br>
+<h3 align="center">Loops</h3>
+<h4 align="center">FOR i = 0 TO 5 THEN</h4>
+<h4 align="center">  display("Zenify on top")</h4>
+<h4 align="center">END</h4>
+<h3 align="center">Output:</h3>
+<h4 align="center">Zenify on top</h4>
+<h4 align="center">Zenify on top</h4>
+<h4 align="center">Zenify on top</h4>
+<h4 align="center">Zenify on top</h4>
+<h4 align="center">Zenify on top</h4>
