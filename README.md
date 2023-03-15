@@ -13,12 +13,8 @@
 <br>
 Printing;
 <br>
-```py
-display("Hello World!")
-```
+
 <br>
 That would output:
 <br>
-``'py
-Hello World!
-```
+
