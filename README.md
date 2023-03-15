@@ -8,3 +8,17 @@
 <h3>Read more to learn how to use Zenify!</h3>
 <br>
 <h1>Documentation</h1>
+<br>
+<h2>Basics</h2>
+<br>
+Printing;
+<br>
+```py
+display("Hello World!")
+```
+<br>
+That would output:
+<br>
+``'py
+Hello World!
+```
