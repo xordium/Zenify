@@ -32,3 +32,6 @@ Learn how Zenify works with this documentation written by the author of Zenify. 
 <br>
 <h3 align="center">Conditionals</h3>
 <p align="center">IF《condition》THEN《condition》ELIF《condition》THEN《codition》</p>
+<h4 align="center">VAR example = 32</h4>
+<br>
+<h4 align="center">IF example == THEN display("true")</h4>
