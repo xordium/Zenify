@@ -13,7 +13,9 @@
 <br>
 Printing;
 <br>
-
+```ruby
+display("lol")
+```
 <br>
 That would output:
 <br>
