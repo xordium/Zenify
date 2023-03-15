@@ -21,3 +21,11 @@ Learn how Zenify works with this documentation written by the author of Zenify. 
 <br>
 <h1 align="center">General</h1>
 <p align="center">py zShell.py will open the Zenify shell. You can also run it with the zShell file to execute a file use 'execute("filename.zen")'.</p>
+<br>
+<h3 align="center">Maths</h3>
+<h4 align="center">VAR a = 32</h4>
+<h4 align="center">VAR b = 346</h4>
+<h4 align="center">display(a*b)</h4>
+
+<h3 align="center">Output:</h3>
+<h4 align="center">11072</h4>
