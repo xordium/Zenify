@@ -35,3 +35,5 @@ Learn how Zenify works with this documentation written by the author of Zenify. 
 <h4 align="center">VAR example = 32</h4>
 <br>
 <h4 align="center">IF example == THEN display("true")</h4>
+<h3 align="center">Output:</h3>
+<h4 align="center">true</h4>
